@@ -7,18 +7,36 @@
 
 [[redirects]]
   from = "https://bel.pegmalibrary.com/*"
+  to = "https://bel.pegma.app.lhgroup.de/:splat"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://bel.int.pegmalibrary.com/*"
   to = "https://bel.pegma-int.app.lhgroup.de/:splat"
   status = 302
   force = true
 
 [[redirects]]
   from = "https://swr.pegmalibrary.com/*"
+  to = "https://swr.pegma.app.lhgroup.de/:splat"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://swr.int.pegmalibrary.com/*"
   to = "https://swr.pegma-int.app.lhgroup.de/:splat"
   status = 302
   force = true
 
 [[redirects]]
   from = "https://dlh.pegmalibrary.com/*"
+  to = "https://dlh.pegma.app.lhgroup.de/:splat"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://dlh.int.pegmalibrary.com/*"
   to = "https://dlh.pegma-int.app.lhgroup.de/:splat"
   status = 302
   force = true
